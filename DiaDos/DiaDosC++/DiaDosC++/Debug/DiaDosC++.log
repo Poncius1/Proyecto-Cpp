@@ -1,0 +1,3 @@
+﻿  DiaDosC++.cpp
+C:\Users\Ponci\Desktop\GitHub\Proyectos\DiaDos\DiaDosC++\DiaDosC++\DiaDosC++.cpp(12,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  DiaDosC++.vcxproj -> C:\Users\Ponci\Desktop\GitHub\Proyectos\DiaDos\DiaDosC++\Debug\DiaDosC++.exe
